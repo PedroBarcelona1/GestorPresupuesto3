@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Desarrollo Web en Entorno Cliente - Prácticas
 Repositorio de prácticas para el módulo de Desarrollo Web en Entorno Cliente.
 
@@ -17,3 +18,6 @@ A grandes rasgos, los pasos que seguiremos para la elaboración de la aplicació
 5. __Almacenar__ los datos de la aplicación en el __navegador web__. Desde este momento el usuario podrá guardar su información en el navegador: al recargar la página aparecerá la información que hubiera introducido (hasta este momento cada vez que se recargaba la página se borraban todos los datos).
 6. Conectarse con una __API web__ para almacenar la información del usuario en un __servidor web externo__, incluyendo autenticación de usuario. De esta manera el usuario podrá acceder a sus datos desde cualquier navegador.
 7. Utilizar __librerías externas__ para mostrar determinada información de manera __gráfica__ en lugar de texto exclusivamente.
+=======
+# GestorPresupuesto3
+>>>>>>> 32baa7b9ae88afe95be7054593e3351e7b472059
